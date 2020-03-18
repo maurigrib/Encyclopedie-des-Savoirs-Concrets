@@ -31,9 +31,12 @@
     Il faut protéger les délinquants… » 
 *Maryse, Juge prudhommale, Paris*
 
-« Il y a encore une vingtaine d’année, ici on avait la polyculture. Il y avait de l’élevage, et on avait plusieurs types de cultures.  Maintenant, autour de nous, il n’y a plus que du blé, du maïs et de  la betterave. Nous, les petits on a été écrasé. On essaye de produire encore. On fait des légumes et de la viande de bonne qualité. Mais on ne peut plus y vivre. »
+    « Il y a encore une vingtaine d’année, ici on avait la polyculture. 
+    Il y avait de l’élevage, et on avait plusieurs types de cultures.  
+    Maintenant, autour de nous, il n’y a plus que du blé, du maïs et de  la betterave. 
+    Nous, les petits on a été écrasé. On essaye de produire encore. 
+    On fait des légumes et de la viande de bonne qualité. Mais on ne peut plus y vivre. »
 *Catherine, productrice agricole,Foncluse, dép. de la Vienne*
-</font>
 ```
     
 
