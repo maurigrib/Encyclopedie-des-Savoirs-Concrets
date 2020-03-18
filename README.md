@@ -1,8 +1,4 @@
-## Encyclopédie des Savoirs Concrets
-
-***Pour la création d'un corpus de témoignages sur l'impact des politiques néolibérales sur la société française***
-
-100 femmes et hommes transmettent leurs savoirs concrets sur les impacts des politiques néolibérales dans leurs vies, leurs environnements de travail, leurs territoires et les biens communs. 
+## 100 femmes et hommes transmettent leurs savoirs concrets sur les impacts des politiques néolibérales dans leurs vies, leurs environnements de travail, leurs territoires et les biens communs. 
 
 
 ```
@@ -14,13 +10,13 @@
     (...)  Après (la privatisation) un manager nous a réunis et il nous a dit : 
     « il faut attendre que le client pleure ! »
     
-_Alain_, technicien gestion réseaux informatiques chez Orange, Saint-Dénis_ 
+Alain, technicien gestion réseaux informatiques chez Orange, Saint-Dénis 
 
     « J'ai assisté à la fin du monde. J'ai assisté au démantèlement méthodique 
     des institutions auxquelles je croyais... (..) 
     j'ai vu une armée d'occupation arriver dans mon monde et s'acharner à... 
     mettre un terme aux croyances qui étaient les nôtres.
-*Christian, directeur de recherche, CNRS, Paris*
+Christian, directeur de recherche, CNRS, Paris
 
     « la volonté politique est de faire disparaitre cette institution 
     et de transformer nos juges en échevins autour d'un juge professionnel. 
@@ -31,14 +27,14 @@ _Alain_, technicien gestion réseaux informatiques chez Orange, Saint-Dénis_
     En quelques sorte l'idée de cette loi c'est qu'il faut sécuriser les entreprises. 
     (...) Ça apparait assez fou là mais la délinquance des entrepreneurs doit être protégée. 
     Il faut protéger les délinquants... » 
-*Maryse, Juge prudhommale, Paris*
+Maryse, Juge prudhommale, Paris
 
     « Il y a encore une vingtaine d'année, ici on avait la polyculture. 
     Il y avait de l'élevage, et on avait plusieurs types de cultures.  
     Maintenant, autour de nous, il n'y a plus que du blé, du maïs et de  la betterave. 
     Nous, les petits on a été écrasé. On essaye de produire encore. 
     On fait des légumes et de la viande de bonne qualité. Mais on ne peut plus y vivre. »
-*Catherine, productrice agricole,Foncluse, dép. de la Vienne*
+Catherine, productrice agricole,Foncluse, dép. de la Vienne
 ```
     
 
