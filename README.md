@@ -4,7 +4,6 @@
 
 100 femmes et hommes transmettent leurs savoirs concrets sur les impacts des politiques néolibérales dans leurs vies, leurs environnements de travail, leurs territoires et les biens communs. 
 
-    « Dans les, années 1970 il y avait une culture, chez France Télécom, de prévention de la panne. On affichait à titre préventif. Si on savait qu’il y allait avoir une panne, qu’il y avait un équipement en fin de course ou qui donnait des signes de disfonctionnement, on intervenait. Le principe qui était enseigné par les anciens c’était : « prévenir la panne ! » (…)  Après (la privatisation) un manager nous a réunis et il nous a dit : « il faut attendre que le client pleure ! »
 
 ```
     « Dans les, années 1970 il y avait une culture, chez France Télécom, 
