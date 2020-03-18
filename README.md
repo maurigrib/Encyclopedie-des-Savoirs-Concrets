@@ -1,6 +1,6 @@
 ## Encyclopédie des Savoirs Concrets
 
-***Pour la création d’un corpus de témoignages sur l’impact des politiques néolibérales***
+***Pour la création d’un corpus de témoignages sur l’impact des politiques néolibérales sur la société française***
 
 100 femmes et hommes transmettent leurs savoirs concrets sur les impacts des politiques néolibérales dans leurs vies, leurs environnements de travail, leurs territoires et les biens communs. 
 
