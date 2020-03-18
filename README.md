@@ -46,8 +46,7 @@ Le projet ***« Encyclopédie des Savoirs Concrets »*** propose de constituer u
 Les témoignages de 100 hommes et femmes appartenant à divers milieux, territoires et formes d’habitat, seront enregistrés et diffusés sur un site web spécialement conçu. 
 Les différentes phases de réalisation du projet seront elles-mêmes filmées et montées dans un documentaire de 52 minutes. Les moments clefs de l’expérience par un récit de type road movie qui met en lumière questionnements, les rencontres, les différents territoires dans lesquels s’encadrent les récits des témoins.
   
-  
- ## Les images factices d’une modernité à venir 
+## Les images factices d’une modernité à venir 
 
 Ce n’est plus nécessaire de le démontrer. Depuis quarante ans et malgré les alternances politiques nous vivons dans une société dans laquelle s’est progressivement imposée une forme d’explication du réel qui identifie l’image de la modernité et du progrès avec le développement d’une économie de marché libérée de toute contrainte.  D’où l’impératif, partagé depuis les années 1980 par l’ensemble des groupes au pouvoir, de favoriser par tous les moyens la production et le commerce en ouvrant grand les portes à la libre circulation des biens et des capitaux.
 
