@@ -14,7 +14,7 @@
     (...)  Après (la privatisation) un manager nous a réunis et il nous a dit : 
     « il faut attendre que le client pleure ! »
     
-_Alain, technicien gestion réseaux informatiques chez Orange, Saint-DéniS_ 
+_Alain, technicien gestion réseaux informatiques chez Orange, Saint-Dénis_ 
 
     « J'ai assisté à la fin du monde. J'ai assisté au démantèlement méthodique 
     des institutions auxquelles je croyais... (..) 
