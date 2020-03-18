@@ -6,9 +6,9 @@
 
 <font size="2">
 « Dans les, années 1970 il y avait une culture, chez France Télécom, de prévention de la panne. On affichait à titre préventif. Si on savait qu’il y allait avoir une panne, qu’il y avait un équipement en fin de course ou qui donnait des signes de disfonctionnement, on intervenait. Le principe qui était enseigné par les anciens c’était : « prévenir la panne ! » (…)  Après (la privatisation) un manager nous a réunis et il nous a dit : « il faut attendre que le client pleure ! »
-    
-*Alain, technicien gestion réseaux informatiques chez Orange, Saint-Dénis* 
 
+*Alain, technicien gestion réseaux informatiques chez Orange, Saint-Dénis* 
+</font> 
 « J’ai assisté à la fin du monde. J’ai assisté au démantèlement méthodique des institutions auxquelles je croyais… (..) j’ai vu une armée d’occupation arriver dans mon monde et s’acharner à… mettre un terme aux croyances qui étaient les nôtres.
 *Christian, directeur de recherche, CNRS, Paris*
 
