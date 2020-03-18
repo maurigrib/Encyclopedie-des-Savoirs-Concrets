@@ -4,7 +4,7 @@
 
 100 femmes et hommes transmettent leurs savoirs concrets sur les impacts des politiques néolibérales dans leurs vies, leurs environnements de travail, leurs territoires et les biens communs. 
 
-:::info
+>>>
  <font size="2">
 « Dans les, années 1970 il y avait une culture, chez France Télécom, de prévention de la panne. On affichait à titre préventif. Si on savait qu’il y allait avoir une panne, qu’il y avait un équipement en fin de course ou qui donnait des signes de disfonctionnement, on intervenait. Le principe qui était enseigné par les anciens c’était : « prévenir la panne ! » (…)  Après (la privatisation) un manager nous a réunis et il nous a dit : « il faut attendre que le client pleure ! »
     
@@ -20,7 +20,7 @@ En quelques sorte l’idée de cette loi c’est qu’il faut sécuriser les ent
 « Il y a encore une vingtaine d’année, ici on avait la polyculture. Il y avait de l’élevage, et on avait plusieurs types de cultures.  Maintenant, autour de nous, il n’y a plus que du blé, du maïs et de  la betterave. Nous, les petits on a été écrasé. On essaye de produire encore. On fait des légumes et de la viande de bonne qualité. Mais on ne peut plus y vivre. »
 *Catherine, productrice agricole,Foncluse, dép. de la Vienne*
 </font>
-:::
+>>>
     
 
 Le projet ***« Encyclopédie des Savoirs Concrets »*** propose de constituer une large base de données d’interviews filmées ayant pour thématique l’impact réel sur le tissu de la société française des réformes et des transformations économiques et sociales qui ont eu lieu au cours des dernières décennies.
