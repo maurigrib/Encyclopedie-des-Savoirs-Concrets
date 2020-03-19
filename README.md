@@ -85,3 +85,4 @@ Plusieurs onglets permettront aussi de repérer et d’activer la lecture des t�
 
 Toujours à partir de la page principale, on pourra activer la vision du documentaire de 52 minutes dédié à la présentation du making-off de l’expérience, avec les débats et discussions, figures rencontrées, paysages traversés et environnements visités.  
 
+[Méthodes et outils de récolte] (https://github.com/maurigrib/Methodes-et-outils-de-recolte)
