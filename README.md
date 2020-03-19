@@ -73,10 +73,15 @@ Récolter et donner une large tribune à ces voix et à ces savoirs semble impor
 
 ## Le vrai visage des politiques néolibérales
 
-Le projet « Encyclopédie des Savoirs Concrets » propose de répondre à cette urgence.  
+Le projet « _Encyclopédie des Savoirs Concrets_ » propose de répondre à cette urgence.  
+
 À l’encontre des déclarations des experts gouvernementaux et des médias grand public, nous donnerons la parole aux hommes et aux femmes qui ont une connaissance directe et précise des changements qui ont impacté leur travail, leur territoire et leur contexte de vie.
+
 Les témoignages filmés de 100 hommes et femmes appartenant à différents milieux et couches sociales formeront le socle d’une base de données librement consultable à partir d’un site web spécialement dessiné. 
+
 La page d’entrée du site ouvrira directement sur une carte de la France dans laquelle seront placés des points correspondant aux lieux d’habitation ou de travail des témoins. En cliquant sur un point, on pourra activer le témoignage avec la fiche descriptive correspondante et, par un index interactif, visionner des témoignages proches ou similaires. 
+
 Plusieurs onglets permettront aussi de repérer et d’activer la lecture des témoignages à partir de différentes grilles thématiques : lieux et formes de résidence, secteurs d’activité, professions, trajectoires sociales, genre, âge, contexte relationnel, etc. 
+
 Toujours à partir de la page principale, on pourra activer la vision du documentaire de 52 minutes dédié à la présentation du making-off de l’expérience, avec les débats et discussions, figures rencontrées, paysages traversés et environnements visités.  
 
