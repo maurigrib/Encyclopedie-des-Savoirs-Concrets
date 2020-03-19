@@ -70,3 +70,13 @@ Les savoirs portés par ces hommes et ces femmes sont importants et précieux. I
 Pourtant, dans la presque totalité des cas, ces savoirs restent inaudibles, ensevelis sous l'épais verbiage d'une propagande constante, violente, insidieuse. Tus, aussi, par celles et ceux qui n'ont pas encore trouvé la force de sortir de l'ombre et parler leur expérience. Refoulés, malheureusement, par celles et ceux qui ont cru devoir accepter l'inévitabilité de la violence de ce processus, dans le fol espoir d'une amélioration à venir.
 
 Récolter et donner une large tribune à ces voix et à ces savoirs semble important et urgent.  C'est seulement ces voix et ces savoirs qui peuvent permettre de dévoiler la colossale supercherie d'un modèle de modernité dont la seule vraie justification est d'organiser le pillage et le transfert des biens communs et de la valeur du travail vers les nouveaux centres de pouvoir en train de se coaguler autour du capitalisme financier. 
+
+## Le vrai visage des politiques néolibérales
+
+Le projet « Encyclopédie des Savoirs Concrets » propose de répondre à cette urgence.  
+À l’encontre des déclarations des experts gouvernementaux et des médias grand public, nous donnerons la parole aux hommes et aux femmes qui ont une connaissance directe et précise des changements qui ont impacté leur travail, leur territoire et leur contexte de vie.
+Les témoignages filmés de 100 hommes et femmes appartenant à différents milieux et couches sociales formeront le socle d’une base de données librement consultable à partir d’un site web spécialement dessiné. 
+La page d’entrée du site ouvrira directement sur une carte de la France dans laquelle seront placés des points correspondant aux lieux d’habitation ou de travail des témoins. En cliquant sur un point, on pourra activer le témoignage avec la fiche descriptive correspondante et, par un index interactif, visionner des témoignages proches ou similaires. 
+Plusieurs onglets permettront aussi de repérer et d’activer la lecture des témoignages à partir de différentes grilles thématiques : lieux et formes de résidence, secteurs d’activité, professions, trajectoires sociales, genre, âge, contexte relationnel, etc. 
+Toujours à partir de la page principale, on pourra activer la vision du documentaire de 52 minutes dédié à la présentation du making-off de l’expérience, avec les débats et discussions, figures rencontrées, paysages traversés et environnements visités.  
+
