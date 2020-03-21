@@ -10,7 +10,7 @@ Le projet ***« Encyclopédie des Savoirs Concrets »*** propose de constituer u
 > Le principe qui était enseigné par les anciens c'était : « prévenir la panne ! » 
 > (...)  Après (la privatisation) un manager nous a réunis et il nous a dit : 
 > « il faut attendre que le client pleure ! »
-Alain, technicien gestion réseaux informatiques chez Orange, Saint-Dénis 
+[témoignage d'Alain, technicien gestion réseaux informatiques chez Orange, Saint-Dénis](https://youtu.be/lolNBEfpLF8)
 
 > « J'ai assisté à la fin du monde. J'ai assisté au démantèlement méthodique 
 > des institutions auxquelles je croyais... (..) 
