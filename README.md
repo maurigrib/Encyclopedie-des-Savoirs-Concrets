@@ -5,7 +5,6 @@ Le projet ***« Encyclopédie des Savoirs Concrets »*** propose de constituer u
 
 
 
-```
     « Dans les, années 1970 il y avait une culture, chez France Télécom, 
     de prévention de la panne. On affichait à titre préventif. 
     Si on savait qu'il y allait avoir une panne, qu'il y avait un équipement 
@@ -19,7 +18,7 @@ Alain, technicien gestion réseaux informatiques chez Orange, Saint-Dénis
     des institutions auxquelles je croyais... (..) 
     j'ai vu une armée d'occupation arriver dans mon monde et s'acharner à... 
     mettre un terme aux croyances qui étaient les nôtres.
-Christian, directeur de recherche, CNRS, Paris
+[témoignage de Christian, directeur de recherche, CNRS, Paris](https://www.youtube.com/watch?v=J_SIZgnzgeA&t=7s)
 
     « la volonté politique est de faire disparaitre cette institution 
     et de transformer nos juges en échevins autour d'un juge professionnel. 
@@ -38,14 +37,13 @@ Maryse, Juge prudhommale, Paris
     Nous, les petits on a été écrasé. On essaye de produire encore. 
     On fait des légumes et de la viande de bonne qualité. Mais on ne peut plus y vivre. »
 Catherine, productrice agricole,Foncluse, dép. de la Vienne
-```
+
   
 
 
 Les témoignages de 100 hommes et femmes appartenant à divers milieux, territoires et formes d'habitat, seront enregistrés et diffusés sur un site web spécialement conçu. 
 Les différentes phases de réalisation du projet seront elles-mêmes filmées et montées dans un documentaire de 52 minutes. Les moments clefs de l'expérience par un récit de type road movie qui met en lumière questionnements, les rencontres, les différents territoires dans lesquels s'encadrent les récits des témoins.
  
- [Christian, directeur de recherche, CNRS, Paris](https://www.youtube.com/watch?v=J_SIZgnzgeA&t=7s)
 
  
 ## Les mythes et les images du néolibéralisme 
