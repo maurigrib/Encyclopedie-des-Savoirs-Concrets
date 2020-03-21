@@ -10,12 +10,14 @@ Le projet ***« Encyclopédie des Savoirs Concrets »*** propose de constituer u
 > Le principe qui était enseigné par les anciens c'était : « prévenir la panne ! » 
 > (...)  Après (la privatisation) un manager nous a réunis et il nous a dit : 
 > « il faut attendre que le client pleure ! »
+
 [témoignage d'Alain, technicien gestion réseaux informatiques chez Orange, Saint-Dénis](https://youtu.be/lolNBEfpLF8)
 
 > « J'ai assisté à la fin du monde. J'ai assisté au démantèlement méthodique 
 > des institutions auxquelles je croyais... (..) 
 > j'ai vu une armée d'occupation arriver dans mon monde et s'acharner à... 
 > mettre un terme aux croyances qui étaient les nôtres.
+
 [témoignage de Christian, directeur de recherche, CNRS, Paris](https://www.youtube.com/watch?v=J_SIZgnzgeA&t=7s)
 
 > « la volonté politique est de faire disparaitre cette institution 
@@ -27,6 +29,7 @@ Le projet ***« Encyclopédie des Savoirs Concrets »*** propose de constituer u
 > En quelques sorte l'idée de cette loi c'est qu'il faut sécuriser les entreprises. 
 > (...) Ça apparait assez fou là mais la délinquance des entrepreneurs doit être protégée. 
 > Il faut protéger les délinquants... » 
+
 Maryse, Juge prudhommale, Paris
 
 > « Il y a encore une vingtaine d'année, ici on avait la polyculture. 
@@ -34,6 +37,7 @@ Maryse, Juge prudhommale, Paris
 > Maintenant, autour de nous, il n'y a plus que du blé, du maïs et de  la betterave. 
 > Nous, les petits on a été écrasé. On essaye de produire encore. 
 > On fait des légumes et de la viande de bonne qualité. Mais on ne peut plus y vivre. »
+
 Catherine, productrice agricole,Foncluse, dép. de la Vienne
 
 Les témoignages de 100 hommes et femmes appartenant à divers milieux, territoires et formes d'habitat, seront enregistrés et diffusés sur un site web spécialement conçu. 
