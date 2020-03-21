@@ -3,8 +3,6 @@
 
 Le projet ***« Encyclopédie des Savoirs Concrets »*** propose de constituer une large base de données d'interviews filmées ayant pour thématique l'impact réel sur le tissu de la société française des réformes et des transformations économiques et sociales qui ont eu lieu au cours des dernières décennies.
 
-
-
     « Dans les, années 1970 il y avait une culture, chez France Télécom, 
     de prévention de la panne. On affichait à titre préventif. 
     Si on savait qu'il y allait avoir une panne, qu'il y avait un équipement 
@@ -38,7 +36,6 @@ Maryse, Juge prudhommale, Paris
     On fait des légumes et de la viande de bonne qualité. Mais on ne peut plus y vivre. »
 Catherine, productrice agricole,Foncluse, dép. de la Vienne
 
-  
 
 
 Les témoignages de 100 hommes et femmes appartenant à divers milieux, territoires et formes d'habitat, seront enregistrés et diffusés sur un site web spécialement conçu. 
