@@ -19,7 +19,7 @@ Alain, technicien gestion réseaux informatiques chez Orange, Saint-Dénis
     des institutions auxquelles je croyais... (..) 
     j'ai vu une armée d'occupation arriver dans mon monde et s'acharner à... 
     mettre un terme aux croyances qui étaient les nôtres.
-Christian, directeur de recherche, CNRS, Paris
+[Témoignage de Christian, directeur de recherche, CNRS, Paris](https://www.youtube.com/watch?v=J_SIZgnzgeA&t=449s)
 
     « la volonté politique est de faire disparaitre cette institution 
     et de transformer nos juges en échevins autour d'un juge professionnel. 
